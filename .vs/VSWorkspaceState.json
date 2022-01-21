@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\lib\\etlapp_web",
+    "\\lib\\etlapp_web\\controllers"
+  ],
+  "SelectedNode": "\\lib\\etlapp_web\\controllers\\etl_controller.ex",
+  "PreviewInSolutionExplorer": false
+}
